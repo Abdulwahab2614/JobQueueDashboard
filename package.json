@@ -1,0 +1,21 @@
+{
+  "name": "job-queue-dashboard",
+  "version": "1.0.0",
+  "description": "A small full-stack job queue management dashboard built for the React + NestJS intern assignment. React/TypeScript frontend, NestJS/TypeScript backend, SQLite persistence.",
+  "homepage": "https://github.com/Abdulwahab2614/JobQueueDashboard#readme",
+  "bugs": {
+    "url": "https://github.com/Abdulwahab2614/JobQueueDashboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulwahab2614/JobQueueDashboard.git"
+  },
+  "license": "ISC",
+  "author": "Abdul wahab",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
